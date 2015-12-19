@@ -1,7 +1,7 @@
-自动更新hsots的工具
-<br>可以从任何提供hosts下载的网站更新，默认来自cheesehosts
-<br>Windows用户需要把wget.exe 放入 C:\Windows\System32\
-<br>Linux用户可以直接使用
-<br>未开发完毕的功能：
-<br>单独更新某一网站的hosts
-<br>将hosts源外置以供修改
+自动更新 hosts 的工具
+可以从任何提供 hosts 下载的网站更新，默认来自 cheesehosts
+Windows 用户需要把 wget.exe 放入 C:\Windows\System32\
+Linux 用户可以直接使用
+未开发完毕的功能：
+单独更新某一网站的 hosts
+将 hosts 源外置以供修改
